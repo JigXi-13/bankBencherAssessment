@@ -4,16 +4,6 @@
 
 This project implements a robust service layer for handling API requests in a React application. It uses Axios for HTTP requests and includes interceptors, error handling, and modular organization of API-related code.
 
-## Project Structure
-src/
-├── api/
-│   ├── apiService.js
-│   └── axiosInstance.js
-├── utils/
-│   ├── constants.js
-│   └── helper.js
-└── ...
-
 ## Features
 
 - Centralized API service layer
